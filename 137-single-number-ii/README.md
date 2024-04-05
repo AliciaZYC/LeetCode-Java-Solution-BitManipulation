@@ -18,3 +18,4 @@
 	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
 	<li>Each element in <code>nums</code> appears exactly <strong>three times</strong> except for one element which appears <strong>once</strong>.</li>
 </ul>
+<link>https://medium.com/@jaycchiu524/leetcode-137-single-number-ii-bit-manipulation-solution-explanation-1f0dd647d9ee</link>
